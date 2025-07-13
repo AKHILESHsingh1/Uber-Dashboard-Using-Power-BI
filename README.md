@@ -16,8 +16,3 @@ This project showcases an interactive dashboard built in **Power BI** to analyze
 2. Open the `.pbix` file in Power BI Desktop  
 3. Explore or customize the visuals and data  
 
-## 📊 Dashboard Features
-- Total rides & trends  
-- Peak hours & weekdays  
-- Pickup/drop-off locations  
-- Distance & trip analysis
